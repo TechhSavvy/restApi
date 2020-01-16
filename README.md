@@ -24,11 +24,6 @@ I'm pretty sure you should have these tools install in other for thing to work c
 | :---: | :---: |
 | Angular/cli | <a href="https://angular.io/guide/setup-local">Installing Anguler</a> |
 | db browser for sqlite | <a href="https://sqlitebrowser.org/">Installing a Databade</a> |
-
-| Tools | links |
-| :--- : | :---: |
-|Angular/cli | <a href="https://angular.io/guide/setup-local">Installing Agualer</a> |
-| db browser for sqlite | <a href="https://sqlitebrowser.org/">Installing a Databade</a> |
 | postman | <a href="https://www.getpostman.com/">Installing Postmen</a> |
 
 ## How To Contribute
