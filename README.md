@@ -22,7 +22,7 @@ I'm pretty sure you should have these tools install in other for thing to work c
 
 | Tools | links |
 | :---: | :---: |
-| FrameWork | Angular |
+| Angular/cli | href="https://angular.io/guide/setup-local">Installing Agualer</a> |
 
 | Tools | links |
 | :--- : | :---: |
