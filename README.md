@@ -18,7 +18,7 @@ PS: Would'nt know what ill be doing in life if not Web Development/ coding, mayb
 
 ## Deployment
 
-I'm pretty sure you should have these tools install in other for thing to work currectly
+I'm pretty sure you should have these tools install in other for things to work properly.
 
 | Tools | links |
 | :---: | :---: |
