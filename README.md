@@ -20,9 +20,9 @@ PS: Would'nt know what ill be doing in life if not Web Development/ coding, mayb
 
 I'm pretty sure you should have these tools install in other for thing to work currectly
 
-| Tools | links |
-| :--- : | :---: |
-| jsa | nsajia |
+| Over View | Usage | link |
+| :---: | :---: | :--- |
+| FrameWork | Angular | N/A
 
 | Tools | links |
 | :--- : | :---: |
